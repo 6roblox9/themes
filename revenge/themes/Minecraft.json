@@ -1,0 +1,25 @@
+{
+  "spec": 1,
+  "name": "Minecraft Dual",
+  "previewText": "Minecraft Dual",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://github.com/IdreesInc/Minecraft-Font/releases/download/v1.0/Minecraft-Bold.otf",
+    "ggsans-Bold": "https://github.com/IdreesInc/Minecraft-Font/releases/download/v1.0/Minecraft-Bold.otf",
+    "ggsans-BoldItalic": "https://github.com/IdreesInc/Minecraft-Font/releases/download/v1.0/Minecraft-Bold.otf",
+    "ggsans-ExtraBold": "https://github.com/IdreesInc/Minecraft-Font/releases/download/v1.0/Minecraft-Bold.otf",
+    "ggsans-ExtraBoldItalic": "https://github.com/IdreesInc/Minecraft-Font/releases/download/v1.0/Minecraft-Bold.otf",
+    "ggsans-Medium": "https://github.com/IdreesInc/Minecraft-Font/releases/download/v1.0/Minecraft.otf",
+    "ggsans-MediumItalic": "https://github.com/IdreesInc/Minecraft-Font/releases/download/v1.0/Minecraft.otf",
+    "ggsans-Normal": "https://github.com/IdreesInc/Minecraft-Font/releases/download/v1.0/Minecraft.otf",
+    "ggsans-NormalItalic": "https://github.com/IdreesInc/Minecraft-Font/releases/download/v1.0/Minecraft.otf",
+    "ggsans-Semibold": "https://github.com/IdreesInc/Minecraft-Font/releases/download/v1.0/Minecraft-Bold.otf",
+    "ggsans-SemiboldItalic": "https://github.com/IdreesInc/Minecraft-Font/releases/download/v1.0/Minecraft-Bold.otf",
+    "NotoSans-Bold": "https://github.com/IdreesInc/Minecraft-Font/releases/download/v1.0/Minecraft-Bold.otf",
+    "NotoSans-ExtraBold": "https://github.com/IdreesInc/Minecraft-Font/releases/download/v1.0/Minecraft-Bold.otf",
+    "NotoSans-Medium": "https://github.com/IdreesInc/Minecraft-Font/releases/download/v1.0/Minecraft.otf",
+    "NotoSans-Normal": "https://github.com/IdreesInc/Minecraft-Font/releases/download/v1.0/Minecraft.otf",
+    "NotoSans-NormalItalic": "https://github.com/IdreesInc/Minecraft-Font/releases/download/v1.0/Minecraft.otf",
+    "NotoSans-Semibold": "https://github.com/IdreesInc/Minecraft-Font/releases/download/v1.0/Minecraft-Bold.otf",
+    "SourceCodePro-Semibold": "https://github.com/IdreesInc/Minecraft-Font/releases/download/v1.0/Minecraft-Bold.otf"
+  }
+}
