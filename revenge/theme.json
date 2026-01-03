@@ -1,6 +1,6 @@
 {
-  "name": "fuck",
-  "description": "fuck gays",
+  "name": "nah",
+  "description": "bruh",
   "authors": [
     {
       "name": "diddy"
@@ -47,6 +47,7 @@
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#31748f"],
     "REDESIGN_CHAT_INPUT_BACKGROUND": ["#1f1d2e"],
     "BG_BACKDROP": ["#04010173"],
+
     "BACKGROUND_MODIFIER_ACCENT_HOVER": ["#2a273f"],
     "BACKGROUND_MODIFIER_ACCENT_ACTIVE": ["#31748f"],
     "CHANNELTEXTAREA_BACKGROUND": ["#1f1d2e"],
@@ -62,7 +63,26 @@
     "INPUT_BACKGROUND": ["#1f1d2e"],
     "INPUT_PLACEHOLDER_TEXT": ["#6e6a86"],
     "TEXTBOX_BACKGROUND": ["#1f1d2e"],
-    "TOAST_BACKGROUND": ["#1f1d2e"]
+    "TOAST_BACKGROUND": ["#1f1d2e"],
+    "BACKGROUND_MESSAGE_AUTOMOD": ["#2a273f"],
+    "BACKGROUND_MESSAGE_AUTOMOD_HOVER": ["#2a273f"],
+    "BACKGROUND_CHANNEL_SELECTED": ["#2a273f"],
+    "BACKGROUND_CHANNEL_SELECTED_HOVER": ["#31748f"],
+    "BACKGROUND_CHANNEL_UNREAD": ["#26233a"],
+    "BACKGROUND_CHANNEL_UNREAD_HOVER": ["#2a273f"],
+    "BACKGROUND_CHANNEL_DEFAULT": ["#1f1d2e"],
+    "BACKGROUND_CHANNEL_DEFAULT_HOVER": ["#2a273f"],
+    "BACKGROUND_CHANNEL_SEPARATOR": ["#6e6a86"],
+    "BACKGROUND_MODAL_SEPARATOR": ["#6e6a86"],
+    "BACKGROUND_CHANNEL_LIST_SEPARATOR": ["#6e6a86"],
+    "BACKGROUND_TABBAR_SEPARATOR": ["#6e6a86"],
+    "BACKGROUND_HEADER_SEPARATOR": ["#6e6a86"],
+    "BACKGROUND_SECTION_SEPARATOR": ["#6e6a86"],
+    "BORDER_STRONG": ["#6e6a86"],
+    "BORDER_MEDIUM": ["#524f67"],
+    "BORDER_LIGHT": ["#6e6a8655"],
+    "BORDER_BRIGHT": ["#908caa"],
+    "BORDER_FAINT": ["#6e6a8633"]
   },
   "rawColors": {
     "PRIMARY_100": "#e0def4",
@@ -93,6 +113,17 @@
     "BLACK_630": "#6e6a86",
     "BLACK_700": "#908caa",
     "BLACK_730": "#e0def4",
+    "GREY_10": "#6e6a86",
+    "GREY_20": "#6e6a86",
+    "GREY_30": "#6e6a86",
+    "GREY_40": "#6e6a86",
+    "GREY_50": "#6e6a86",
+    "GREY_60": "#6e6a86",
+    "GREY_70": "#6e6a86",
+    "GREY_80": "#6e6a86",
+    "GREY_90": "#6e6a86",
+    "GREY_100": "#6e6a86",
+    
     "PLUM_1": "#908caa",
     "PLUM_10": "#908caa",
     "PLUM_11": "#26233a",
@@ -217,7 +248,22 @@
     "PURPLE_600": "#c4a7e7",
     "PURPLE_630": "#c4a7e7",
     "PURPLE_660": "#c4a7e7",
-    "PURPLE_700": "#c4a7e7"
+    "PURPLE_700": "#c4a7e7",
+    "NEUTRAL_100": "#6e6a86",
+    "NEUTRAL_200": "#6e6a86",
+    "NEUTRAL_300": "#6e6a86",
+    "NEUTRAL_400": "#6e6a86",
+    "NEUTRAL_500": "#6e6a86",
+    "NEUTRAL_600": "#6e6a86",
+    "NEUTRAL_700": "#6e6a86",
+    "NEUTRAL_800": "#6e6a86",
+    "NEUTRAL_900": "#6e6a86",
+    
+    "SEPARATOR_100": "#6e6a86",
+    "SEPARATOR_200": "#6e6a86",
+    "SEPARATOR_300": "#6e6a86",
+    "SEPARATOR_400": "#6e6a86",
+    "SEPARATOR_500": "#6e6a86"
   },
   "fonts": {
     "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
@@ -241,7 +287,7 @@
   },
   "background": {
     "blur": 0,
-    "url": "https://i.postimg.cc/1z8G98r7/60210555b2926d0f83acdb2e60f58e9f.jpg",
+    "url": "https://i.postimg.cc/tRcHTwy0/b9646b5637748bd24ab99a371f99b28d.jpg",
     "alpha": 1
   },
   "plus": {
